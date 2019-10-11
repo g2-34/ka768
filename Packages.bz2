@@ -1,0 +1,16 @@
+Package: com.itsfiori.CodeBox
+Name : codeBox 
+Version: 1.0
+Author:Author
+Description : اكواد اوتجتكف سي
+Installed-size : 50mg
+Architecture:  iphoneos-arm 
+section: tweack
+
+
+Conflicts: الادوات الي تتضارب مع الاداة 
+Filename: مسار الاداة متبوع باسم الاداة 
+Depiction: موقع يكون فيه وصف الاداة 
+Size: حجم الاداة بالكيلو بايت 
+MD5Sum : نوع تشفير لازم الحروف سمول (صغار)
+SHA1 و SHA256 نوع تشفير لتشغيل الاداة (الحروف 
